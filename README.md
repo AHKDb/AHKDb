@@ -23,7 +23,7 @@ AHKDb is a database library for [AutoHotkey](https://www.autohotkey.com/). It ma
 ### How to Use AHKDb
 
 To start using AHKDb, two things have to be done.
-1. Place [AHKDb.ahk](https://raw.githubusercontent.com/AHKDb/AHKDb/master/readme_files/database_viewer.png) in the working directory.
+1. Place [AHKDb.ahk](https://raw.githubusercontent.com/AHKDb/AHKDb/master/AHKDb.ahk) in the working directory.
 2. Put `#Include AHKDb.ahk` somewhere in your .ahk file.
 
 AHKDb can now be used. For a start, it can be a good idea to try the code example below. For information about the functions of AHKDb, the [documentation](https://github.com/AHKDb/AHKDb/blob/master/AHKDb%20Documentation.pdf) may be useful.
